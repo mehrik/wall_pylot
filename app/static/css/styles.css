@@ -1,0 +1,16 @@
+* {
+  font-family: monaco;
+}
+
+.message {
+  border: 1px solid black;
+}
+
+.message p {
+  font-weight: bold;
+}
+
+.post {
+  margin-left: 10px;
+  border-bottom: 1px solid black;
+}
